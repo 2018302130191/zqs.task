@@ -1,1 +1,1 @@
-# zqs.task
+# zqstask
